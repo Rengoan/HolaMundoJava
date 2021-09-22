@@ -17,6 +17,7 @@ public class HolaMundoJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo"); //Para visualizar en pantalla
+        System.out.println("Prueba1");
     }
     
 }
