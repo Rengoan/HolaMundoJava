@@ -19,5 +19,5 @@ public class HolaMundoJava {
         System.out.println("Hola mundo"); //Para visualizar en pantalla
         System.out.println("Prueba1");
     }
-    
+
 }
